@@ -70,6 +70,6 @@ Building out The 5th C Diamond's initial Shopify setup highlights several decisi
 
 ## Appendix
 
-GitHub Repository: *\[insert your GitHub repo URL here\]*
+GitHub Repository: <https://github.com/PhuLoi66/5th-c-diamond-shopify>
 
-GitHub Pages (Published Report): *\[insert your GitHub Pages URL here\]*
+GitHub Pages (Published Report): <https://phuloi66.github.io/5th-c-diamond-shopify/>
